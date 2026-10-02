@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-02",
+  "total_posts": 3,
+  "successful": 3,
+  "failed": 0,
+  "posts": [
+    {
+      "content_id": "home_decor-e748d59490",
+      "brand": "home_decor",
+      "status": "dry_run"
+    },
+    {
+      "content_id": "girls_apparel-fa43794f45",
+      "brand": "girls_apparel",
+      "status": "dry_run"
+    },
+    {
+      "content_id": "mens_style-565969f1fb",
+      "brand": "mens_style",
+      "status": "dry_run"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "home_decor": {
+    "niche": "Interior design and home decor inspiration.",
+    "content_categories": [
+      "Bedroom",
+      "Living room",
+      "Kitchen",
+      "Bathroom",
+      "Small apartment",
+      "Luxury interiors",
+      "Minimalist interiors",
+      "Modern interiors",
+      "Budget-friendly decor",
+      "Before/after concepts"
+    ],
+    "visual_style": [
+      "Photorealistic",
+      "Premium interior-design photography",
+      "Natural lighting",
+      "Clean composition",
+      "Modern aesthetic",
+      "No visible logos",
+      "No watermark",
+      "No unnecessary text inside the generated image"
+    ],
+    "instagram_format": {
+      "aspect_ratio": "4:5",
+      "width": 1080,
+      "height": 1350,
+      "crop_mode": "center"
+    }
+  },
+  "girls_apparel": {
+    "niche": "Women's fashion and outfit inspiration.",
+    "content_categories": [
+      "Casual outfits",
+      "Office outfits",
+      "Party outfits",
+      "Date-night outfits",
+      "Summer outfits",
+      "Winter outfits",
+      "Streetwear",
+      "Minimal fashion",
+      "Color combinations",
+      "Outfit sets"
+    ],
+    "visual_style": [
+      "Premium fashion editorial",
+      "Photorealistic",
+      "High-quality clothing details",
+      "Natural-looking model",
+      "Studio or lifestyle photography depending on concept",
+      "No visible brand logos",
+      "No watermark",
+      "Avoid unrealistic anatomy",
+      "Avoid sexualized presentation"
+    ],
+    "instagram_format": {
+      "aspect_ratio": "4:5",
+      "width": 1080,
+      "height": 1350,
+      "crop_mode": "center"
+    }
+  },
+  "mens_style": {
+    "niche": "Men's fashion and stylish outfit combinations.",
+    "content_categories": [
+      "Smart casual",
+      "Office outfits",
+      "Streetwear",
+      "Date-night outfits",
+      "Wedding outfits",
+      "Summer outfits",
+      "Winter outfits",
+      "Minimal outfits",
+      "Sneakers + outfit combinations",
+      "Color combinations"
+    ],
+    "visual_style": [
+      "Premium men's fashion editorial",
+      "Photorealistic",
+      "Clean composition",
+      "High-quality clothing details",
+      "Natural-looking model",
+      "No visible brand logos",
+      "No watermark",
+      "Instagram-ready"
+    ],
+    "instagram_format": {
+      "aspect_ratio": "4:5",
+      "width": 1080,
+      "height": 1350,
+      "crop_mode": "center"
+    }
+  }
+}
