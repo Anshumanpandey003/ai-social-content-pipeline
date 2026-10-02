@@ -1,0 +1,82 @@
+{
+  "brands": {
+    "home_decor": {
+      "brand_id": "home_decor",
+      "display_name": "Home Decor Inspiration",
+      "niche": "Interior Design & Home Decor",
+      "target_aspect_ratio": "4:5",
+      "categories": [
+        "Living Rooms",
+        "Bedrooms",
+        "Kitchens",
+        "Bathrooms",
+        "Minimalist Design",
+        "Cozy Spaces",
+        "Wall Decor",
+        "Furniture Styling"
+      ],
+      "visual_style": {
+        "mood": "warm, inviting, inspirational",
+        "lighting": "natural window light, golden hour when possible",
+        "colors": "earth tones, neutral palettes, accent colors",
+        "camera_lens": "50mm or 35mm for authentic perspective",
+        "composition": "clean lines, organized shelving, styled surfaces",
+        "texture": "natural materials, wood grain, textiles",
+        "authenticity": "real homes, relatable spaces, not overly staged"
+      },
+      "negative_constraints": "NO watermarks, NO text overlays, NO brand logos, NO distorted perspective, NO cluttered backgrounds"
+    },
+    "girls_apparel": {
+      "brand_id": "girls_apparel",
+      "display_name": "Girls Fashion & Outfit Ideas",
+      "niche": "Women's Fashion & Outfit Inspiration",
+      "target_aspect_ratio": "4:5",
+      "categories": [
+        "Casual Outfits",
+        "Business Casual",
+        "Date Night Looks",
+        "Summer Styles",
+        "Winter Layering",
+        "Street Style",
+        "Accessories",
+        "Color Combinations"
+      ],
+      "visual_style": {
+        "mood": "confident, fashionable, relatable, aspirational",
+        "lighting": "bright and clear, studio-like or natural outdoor light",
+        "colors": "trendy color combinations, seasonal palettes",
+        "camera_lens": "85mm for flattering proportions, 50mm for full body",
+        "composition": "model or outfit on dress form, shoes visible, clean background",
+        "texture": "fabric details, textures, weave patterns visible",
+        "authenticity": "realistic sizing, diverse fits, no excessive filters"
+      },
+      "negative_constraints": "NO watermarks, NO text overlays, NO brand logos, NO distorted anatomy, NO excessive retouching, NO unrealistic body proportions"
+    },
+    "mens_style": {
+      "brand_id": "mens_style",
+      "display_name": "Men's Style & Outfit Combinations",
+      "niche": "Men's Stylish Clothing & Combinations",
+      "target_aspect_ratio": "4:5",
+      "categories": [
+        "Casual Wear",
+        "Smart Casual",
+        "Business Attire",
+        "Streetwear",
+        "Layering Techniques",
+        "Color Pairings",
+        "Footwear Styles",
+        "Accessories & Grooming"
+      ],
+      "visual_style": {
+        "mood": "sharp, confident, practical, aspirational",
+        "lighting": "clear and defined, outdoor natural light or studio lighting",
+        "colors": "neutral base colors, accent pieces, seasonal trends",
+        "camera_lens": "50mm or 85mm for balanced full-body shots",
+        "composition": "outfit on model or dress form, complete outfit from head to toe, clean environment",
+        "texture": "fabric quality, fit details, material weave",
+        "authenticity": "realistic proportions, practical styling, wearable inspiration"
+      },
+      "negative_constraints": "NO watermarks, NO text overlays, NO brand logos, NO distorted proportions, NO overly filtered images, NO unrealistic body standards"
+    }
+  }
+}
